@@ -36,6 +36,9 @@
                                 <state key="highlighted">
                                     <color key="titleColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
                                 </state>
+                                <connections>
+                                    <action selector="saltTheEggs:" destination="2" eventType="touchUpInside" id="BDj-kh-Ulm"/>
+                                </connections>
                             </button>
                             <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="left" text="There's A Party In My Tummy" lineBreakMode="tailTruncation" minimumFontSize="10" id="Sdu-Ty-fcM">
                                 <rect key="frame" x="54" y="228" width="255" height="21"/>
@@ -55,6 +58,9 @@
                                 <state key="highlighted">
                                     <color key="titleColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
                                 </state>
+                                <connections>
+                                    <action selector="PepperTheEggs:" destination="2" eventType="touchUpInside" id="YJb-yL-Xms"/>
+                                </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" id="0kD-2j-1yH">
                                 <rect key="frame" x="20" y="307" width="280" height="37"/>
@@ -67,6 +73,9 @@
                                 <state key="highlighted">
                                     <color key="titleColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
                                 </state>
+                                <connections>
+                                    <action selector="eatTheEggs:" destination="2" eventType="touchUpInside" id="aWZ-OL-Hky"/>
+                                </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" id="FQy-Rr-YE0">
                                 <rect key="frame" x="20" y="352" width="280" height="37"/>
@@ -79,6 +88,9 @@
                                 <state key="highlighted">
                                     <color key="titleColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
                                 </state>
+                                <connections>
+                                    <action selector="goToJail:" destination="2" eventType="touchUpInside" id="lZH-rN-ZeU"/>
+                                </connections>
                             </button>
                         </subviews>
                         <color key="backgroundColor" white="0.66666666666666663" alpha="1" colorSpace="calibratedWhite"/>
